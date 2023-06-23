@@ -1,0 +1,38 @@
+.user-interaction-6 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 54px;
+  min-height: 32px;
+  position: absolute;
+  top: 538px;
+  width: 32px;
+}
+
+.icon-filled-cursor {
+  height: 30px;
+  margin-left: 2px;
+  margin-top: 1px;
+  width: 30px;
+}
+
+.hover {
+  -webkit-text-stroke: 2px var(--white);
+  letter-spacing: 0;
+  line-height: 11px;
+  margin-left: -2px;
+  min-width: 34px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.user-interaction-6.user-interaction-7 {
+  left: 371px;
+  top: 650px;
+}
+
+.user-interaction-6.user-interaction-8 {
+  left: 374px;
+  top: 482px;
+}
+

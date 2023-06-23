@@ -1,0 +1,9 @@
+.column-header-2-8,
+.column-header-2-9 {
+  align-items: center;
+  display: flex;
+  gap: 10px;
+  position: relative;
+  width: fit-content;
+}
+

@@ -1,0 +1,21 @@
+.scrollbar,
+.scrollbar-1,
+.scrollbar-2,
+.scrollbar-3,
+.scrollbar-4,
+.scrollbar-5,
+.scrollbar-6,
+.scrollbar-7,
+.scrollbar-8,
+.scrollbar-9,
+.scrollbar-10,
+.scrollbar-11 {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: var(--black-haze);
+  display: flex;
+  flex-direction: column;
+  padding: 1px;
+  position: relative;
+}
+

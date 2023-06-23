@@ -1,0 +1,18 @@
+.cell-06-text-6 {
+  align-items: center;
+  display: flex;
+  gap: 5px;
+  padding: 0px 15px 0px 10px;
+  position: relative;
+  width: fit-content;
+}
+
+.cell-06-text-6.cell-06-text-16 {
+  align-items: center;
+  display: flex;
+  gap: 5px;
+  padding: 0px 16px 0px 10px;
+  position: relative;
+  width: fit-content;
+}
+

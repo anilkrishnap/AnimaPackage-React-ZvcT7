@@ -1,0 +1,19 @@
+.table-98,
+.table-99,
+.table-100 {
+  align-items: center;
+  display: flex;
+  flex: 1;
+  gap: 5px;
+  padding: 0px 10px;
+  position: relative;
+}
+
+.notification-2,
+.notification-3,
+.notification-4 {
+  height: 20px;
+  min-width: 20px;
+  position: relative;
+}
+

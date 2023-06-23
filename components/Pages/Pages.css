@@ -1,0 +1,63 @@
+.pages,
+.pages-1,
+.pages-2,
+.pages-3,
+.pages-4,
+.pages-5,
+.pages-6,
+.pages-7,
+.pages-8,
+.pages-9,
+.pages-10 {
+  align-items: center;
+  display: flex;
+  flex: 1;
+  gap: 5px;
+  justify-content: center;
+  position: relative;
+}
+
+.page-number,
+.page-number-1,
+.page-number-2,
+.page-number-3,
+.page-number-4,
+.page-number-5,
+.page-number-6,
+.page-number-7,
+.page-number-8,
+.page-number-9,
+.page-number-10 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  height: 35px;
+  justify-content: center;
+  padding: 10px 14px;
+  position: relative;
+  width: 35px;
+}
+
+.placeholder-text-71,
+.placeholder-text-72,
+.placeholder-text-73,
+.placeholder-text-74,
+.placeholder-text-75,
+.placeholder-text-76,
+.placeholder-text-77,
+.placeholder-text-78,
+.placeholder-text-79,
+.placeholder-text-80,
+.placeholder-text-81 {
+  letter-spacing: 0;
+  line-height: 16.8px;
+  margin-left: -3.50px;
+  margin-right: -3.50px;
+  margin-top: -2.00px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+

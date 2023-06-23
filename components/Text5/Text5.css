@@ -1,0 +1,36 @@
+.text-53,
+.text-54,
+.text-55,
+.text-57,
+.text-58,
+.text-59,
+.text-60,
+.text-61,
+.text-62,
+.text-63 {
+  align-items: center;
+  display: flex;
+  gap: 10px;
+  padding: 5px 0px;
+  position: relative;
+  width: fit-content;
+}
+
+.label-87,
+.label-94,
+.label-95,
+.label-96,
+.label-97,
+.label-98,
+.label-99,
+.label-100,
+.label-101,
+.label-102 {
+  letter-spacing: 0;
+  line-height: 14.5px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+

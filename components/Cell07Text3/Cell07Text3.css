@@ -1,0 +1,10 @@
+.cell-07-text-16,
+.cell-07-text-17 {
+  align-items: center;
+  display: flex;
+  gap: 5px;
+  padding: 0px 20px 0px 10px;
+  position: relative;
+  width: fit-content;
+}
+

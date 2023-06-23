@@ -1,0 +1,24 @@
+.text-51 {
+  align-items: center;
+  display: flex;
+  gap: 10px;
+  padding: 5px 0px;
+  position: relative;
+  width: fit-content;
+}
+
+.label-82 {
+  letter-spacing: 0;
+  line-height: 14.5px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.text-51.text-56,
+.text-51.text-56 .label-82 {
+  flex: 1;
+  width: unset;
+}
+

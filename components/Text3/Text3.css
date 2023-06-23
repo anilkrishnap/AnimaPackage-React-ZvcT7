@@ -1,0 +1,36 @@
+.text-30,
+.text-31,
+.text-32,
+.text-33,
+.text-34,
+.text-35,
+.text-36,
+.text-37,
+.text-38,
+.text-39 {
+  align-items: center;
+  display: flex;
+  gap: 10px;
+  padding: 5px 0px;
+  position: relative;
+  width: fit-content;
+}
+
+.label-61,
+.label-62,
+.label-63,
+.label-64,
+.label-65,
+.label-66,
+.label-67,
+.label-68,
+.label-69,
+.label-70 {
+  letter-spacing: 0;
+  line-height: 14.5px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+

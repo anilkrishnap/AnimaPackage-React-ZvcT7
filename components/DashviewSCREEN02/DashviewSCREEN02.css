@@ -1,0 +1,195 @@
+.dashview-screen02 {
+  align-items: flex-start;
+  background-color: var(--white-lilac);
+  border: 1px none;
+  display: flex;
+  height: 774px;
+  overflow: hidden;
+  width: 1024px;
+}
+
+.overlap-group4-1 {
+  height: 804px;
+  position: relative;
+  width: 1024px;
+}
+
+.dashview-3 {
+  align-items: center;
+  background-color: var(--white-lilac);
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  justify-content: center;
+  left: 0;
+  padding: 0px 0px 20px;
+  position: absolute;
+  top: 0;
+  width: fit-content;
+}
+
+.tabs-3 {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  padding: 10px 459px 10px 10px;
+  position: relative;
+  width: 1004px;
+}
+
+.tab-15 {
+  align-items: flex-start;
+  display: flex;
+  gap: 20px;
+  position: relative;
+  width: fit-content;
+}
+
+.tab-items-14 {
+  align-items: center;
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  width: fit-content;
+}
+
+.item-name-29 {
+  letter-spacing: 0;
+  line-height: 14.5px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.cards-2 {
+  align-items: flex-start;
+  display: flex;
+  gap: 10px;
+  position: relative;
+  width: 1004px;
+}
+
+.x-pending-1 {
+  align-items: flex-start;
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--black-haze);
+  cursor: pointer;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  gap: 10px;
+  padding: 10px;
+  position: relative;
+}
+
+.label-229 {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 14.5px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+}
+
+.label-230 {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 22.8px;
+  position: relative;
+  white-space: nowrap;
+}
+
+.label-231 {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  white-space: nowrap;
+}
+
+.label-232 {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: relative;
+  white-space: nowrap;
+}
+
+.span0-2 {
+  line-height: 22.8px;
+}
+
+.span1-2 {
+  line-height: 14.5px;
+}
+
+.dashboard-table-3 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  width: fit-content;
+}
+
+.table-89 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  width: 1004px;
+}
+
+.click-container-7 {
+  height: 47px;
+  left: 15px;
+  position: absolute;
+  top: 488px;
+  width: 32px;
+}
+
+.click-14 {
+  height: 40px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 32px;
+}
+
+.click-15 {
+  -webkit-text-stroke: 2px var(--white);
+  left: 14px;
+  letter-spacing: 0;
+  line-height: 11px;
+  position: absolute;
+  text-align: center;
+  top: 36px;
+  white-space: nowrap;
+}
+
+.overlap-group3-2 {
+  height: 242px;
+  left: 560px;
+  position: absolute;
+  top: 423px;
+  width: 164px;
+}
+
+.input-field {
+  height: 42px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 155px;
+}
+
+.input-field-1 {
+  height: 42px;
+  left: 0;
+  position: absolute;
+  top: 159px;
+  width: 155px;
+}
+

@@ -1,0 +1,8 @@
+.cards-1 {
+  align-items: flex-start;
+  display: flex;
+  gap: 10px;
+  position: relative;
+  width: 1004px;
+}
+

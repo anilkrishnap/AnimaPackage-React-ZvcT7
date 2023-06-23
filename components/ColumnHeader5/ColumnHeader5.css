@@ -1,0 +1,57 @@
+.column-header-5,
+.column-header-5-1,
+.column-header-5-2,
+.column-header-5-3,
+.column-header-5-4,
+.column-header-5-5,
+.column-header-5-6,
+.column-header-5-7,
+.column-header-5-8,
+.column-header-5-9,
+.column-header-5-10 {
+  align-items: center;
+  display: flex;
+  gap: 10px;
+  padding: 0px 11px;
+  position: relative;
+  width: fit-content;
+}
+
+.text-40,
+.text-41,
+.text-42,
+.text-43,
+.text-44,
+.text-45,
+.text-46,
+.text-47,
+.text-48,
+.text-49,
+.text-50 {
+  align-items: center;
+  display: flex;
+  gap: 10px;
+  padding: 5px 0px;
+  position: relative;
+  width: fit-content;
+}
+
+.label-71,
+.label-72,
+.label-73,
+.label-74,
+.label-75,
+.label-76,
+.label-77,
+.label-78,
+.label-79,
+.label-80,
+.label-81 {
+  letter-spacing: 0;
+  line-height: 14.5px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+

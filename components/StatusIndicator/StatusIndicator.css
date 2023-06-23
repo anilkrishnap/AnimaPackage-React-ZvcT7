@@ -1,0 +1,20 @@
+.status-indicator,
+.status-indicator-8,
+.status-indicator-1,
+.status-indicator-2,
+.status-indicator-3,
+.status-indicator-4,
+.status-indicator-9,
+.status-indicator-5,
+.status-indicator-6,
+.status-indicator-7 {
+  align-items: center;
+  background-color: var(--white);
+  display: flex;
+  gap: 10px;
+  height: 30px;
+  justify-content: center;
+  position: relative;
+  width: 30px;
+}
+

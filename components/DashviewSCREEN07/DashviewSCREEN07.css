@@ -1,0 +1,192 @@
+.dashview-screen07 {
+  align-items: flex-start;
+  background-color: var(--white-lilac);
+  border: 1px none;
+  display: flex;
+  height: 774px;
+  overflow: hidden;
+  width: 1024px;
+}
+
+.overlap-group2-1 {
+  height: 819px;
+  position: relative;
+  width: 1024px;
+}
+
+.dashview-7 {
+  align-items: center;
+  background-color: var(--white-lilac);
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  justify-content: center;
+  left: 0;
+  padding: 0px 0px 20px;
+  position: absolute;
+  top: 0;
+  width: fit-content;
+}
+
+.tabs-7 {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  padding: 10px 459px 10px 10px;
+  position: relative;
+  width: 1004px;
+}
+
+.tab-19 {
+  align-items: flex-start;
+  display: flex;
+  gap: 20px;
+  position: relative;
+  width: fit-content;
+}
+
+.tab-items-18 {
+  align-items: center;
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  width: fit-content;
+}
+
+.item-name-34 {
+  letter-spacing: 0;
+  line-height: 14.5px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.cards-6 {
+  align-items: flex-start;
+  display: flex;
+  gap: 10px;
+  position: relative;
+  width: 1004px;
+}
+
+.x-pending-5 {
+  align-items: flex-start;
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--black-haze);
+  cursor: pointer;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  gap: 10px;
+  padding: 10px;
+  position: relative;
+}
+
+.label-273 {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 14.5px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+}
+
+.label-274 {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 22.8px;
+  position: relative;
+  white-space: nowrap;
+}
+
+.label-275 {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  white-space: nowrap;
+}
+
+.label-276 {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: relative;
+  white-space: nowrap;
+}
+
+.span0-6 {
+  line-height: 22.8px;
+}
+
+.span1-6 {
+  line-height: 14.5px;
+}
+
+.dashboard-table-6 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  width: fit-content;
+}
+
+.table-97 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  width: 1004px;
+}
+
+.pagination-8 {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--white);
+  display: flex;
+  gap: 6px;
+  padding: 0px 10px;
+  position: relative;
+}
+
+.button-8 {
+  align-items: center;
+  background-color: var(--black);
+  border-radius: 22px;
+  display: flex;
+  gap: 10px;
+  height: 19px;
+  justify-content: center;
+  padding: 0px 10px;
+  position: relative;
+  width: fit-content;
+}
+
+.dropdown-9 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  gap: 10px;
+  position: relative;
+  width: fit-content;
+}
+
+.rectangle-30-9 {
+  align-self: stretch;
+  background-color: var(--white);
+  height: 19px;
+  min-width: 1px;
+  position: relative;
+}
+
+.icon-59 {
+  height: 10px;
+  margin-right: -3489.00px;
+  margin-top: -378.00px;
+  min-width: 10px;
+  position: relative;
+}
+

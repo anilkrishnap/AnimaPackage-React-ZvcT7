@@ -1,0 +1,38 @@
+.text-icon-66,
+.text-icon-67,
+.text-icon-68,
+.text-icon-69,
+.text-icon-70,
+.text-icon-71,
+.text-icon-72,
+.text-icon-73,
+.text-icon-74,
+.text-icon-75,
+.text-icon-76 {
+  align-items: center;
+  display: flex;
+  gap: 5px;
+  padding: 5px 0px;
+  position: relative;
+  width: 72px;
+}
+
+.label-163,
+.label-164,
+.label-165,
+.label-166,
+.label-167,
+.label-168,
+.label-169,
+.label-170,
+.label-171,
+.label-172,
+.label-173 {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 14.5px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+}
+

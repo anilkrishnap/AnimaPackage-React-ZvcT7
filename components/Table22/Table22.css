@@ -1,0 +1,75 @@
+.table-2,
+.cell-01-text-2,
+.table-3,
+.cell-01-text-3,
+.table-4,
+.cell-01-text-4,
+.table-5,
+.table-6,
+.table-7,
+.cell-01-text-5,
+.table-8,
+.cell-01-text-6,
+.table-9,
+.cell-01-text-7,
+.table-10,
+.cell-01-text-8,
+.table-11,
+.cell-01-text-9,
+.cell-01-text,
+.cell-01-text-1,
+.table-1,
+.table-12,
+.cell-01-text-10,
+.table-13,
+.cell-01-text-11,
+.table-14,
+.cell-01-text-12,
+.table-15,
+.cell-01-text-13,
+.table-16,
+.cell-01-text-14,
+.table-17,
+.cell-01-text-15,
+.table-18,
+.cell-01-text-16,
+.table-19,
+.cell-01-text-17,
+.table-20,
+.cell-01-text-18,
+.table-21,
+.cell-01-text-19,
+.table-22,
+.cell-01-text-20,
+.table-23,
+.cell-01-text-21,
+.table-24,
+.cell-01-text-22,
+.table-25,
+.cell-01-text-23,
+.table-26,
+.cell-01-text-24 {
+  align-items: center;
+  display: flex;
+  gap: 5px;
+  padding: 0px 0px 0px 10px;
+  position: relative;
+  width: fit-content;
+}
+
+.icon-27,
+.icon-28,
+.icon-29,
+.icon-30,
+.icon-31,
+.icon-32,
+.icon-33,
+.icon-34,
+.icon-35,
+.icon-36,
+.icon-37 {
+  height: 20px;
+  min-width: 20px;
+  position: relative;
+}
+

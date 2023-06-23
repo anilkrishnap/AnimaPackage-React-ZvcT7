@@ -1,0 +1,17 @@
+.table-27,
+.table-28 {
+  align-items: center;
+  display: flex;
+  flex: 1;
+  gap: 5px;
+  padding: 0px 10px;
+  position: relative;
+}
+
+.notification,
+.notification-1 {
+  height: 20px;
+  min-width: 20px;
+  position: relative;
+}
+

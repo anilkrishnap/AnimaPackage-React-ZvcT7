@@ -1,0 +1,31 @@
+.page-number-55,
+.page-number-56 {
+  align-items: center;
+  background-color: var(--deep-cerulean);
+  border-radius: 40px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  height: 16px;
+  justify-content: center;
+  left: 118px;
+  padding: 10px 14px;
+  position: absolute;
+  top: 182px;
+  width: 16px;
+}
+
+.placeholder-text-126,
+.placeholder-text-127 {
+  letter-spacing: 0;
+  line-height: 16.8px;
+  margin-bottom: -9.50px;
+  margin-left: -10.00px;
+  margin-right: -10.00px;
+  margin-top: -11.50px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+

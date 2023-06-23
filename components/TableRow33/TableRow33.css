@@ -1,0 +1,57 @@
+.table-row-3-2,
+.table-row-3-3,
+.table-row-3-4,
+.table-row-3-5 {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: var(--black-haze);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  position: relative;
+}
+
+.inputs-45,
+.inputs-46,
+.inputs-47,
+.inputs-48 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  gap: 10px;
+  padding: 7px 10px;
+  position: relative;
+}
+
+.checkbox-43,
+.checkbox-44,
+.checkbox-45,
+.checkbox-46 {
+  height: 20px;
+  min-width: 20px;
+  position: relative;
+}
+
+.row-data-45,
+.row-data-46,
+.row-data-47,
+.row-data-48 {
+  align-items: center;
+  display: flex;
+  flex: 1;
+  gap: 10px;
+  position: relative;
+}
+
+.cell-07-text-24,
+.cell-07-text-25,
+.cell-07-text-26,
+.cell-07-text-27 {
+  align-items: center;
+  display: flex;
+  gap: 5px;
+  padding: 0px 20px;
+  position: relative;
+  width: fit-content;
+}
+

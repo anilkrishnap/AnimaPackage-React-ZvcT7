@@ -1,0 +1,52 @@
+.tab-items-1-1,
+.tab-items-1-2,
+.tab-items-1-3,
+.tab-items-1-4,
+.tab-items-1-5,
+.tab-items-1-6,
+.tab-items-1-7,
+.tab-items-1-8,
+.tab-items-1-9,
+.tab-items-1-10 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  width: fit-content;
+}
+
+.item-name-13,
+.item-name-14,
+.item-name-15,
+.item-name-16,
+.item-name-17,
+.item-name-18,
+.item-name-19,
+.item-name-20,
+.item-name-21,
+.item-name-22 {
+  letter-spacing: 0;
+  line-height: 14.5px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.bar-12,
+.bar-13,
+.bar-14,
+.bar-15,
+.bar-16,
+.bar-17,
+.bar-18,
+.bar-19,
+.bar-20,
+.bar-21 {
+  align-self: stretch;
+  background-color: var(--thunderbird);
+  height: 4px;
+  min-width: 103px;
+  position: relative;
+}
+

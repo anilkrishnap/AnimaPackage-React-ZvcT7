@@ -1,0 +1,243 @@
+.dashview-screen10 {
+  align-items: flex-start;
+  background-color: var(--white-lilac);
+  border: 1px none;
+  display: flex;
+  height: 774px;
+  overflow: hidden;
+  width: 1024px;
+}
+
+.overlap-group4-2 {
+  height: 819px;
+  position: relative;
+  width: 1024px;
+}
+
+.dashview-11 {
+  align-items: center;
+  background-color: var(--white-lilac);
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  justify-content: center;
+  left: 0;
+  padding: 0px 0px 20px;
+  position: absolute;
+  top: 0;
+  width: fit-content;
+}
+
+.tabs-11 {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  padding: 10px 459px 10px 10px;
+  position: relative;
+  width: 1004px;
+}
+
+.tab-23 {
+  align-items: flex-start;
+  display: flex;
+  gap: 20px;
+  position: relative;
+  width: fit-content;
+}
+
+.tab-items-22 {
+  align-items: center;
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  width: fit-content;
+}
+
+.item-name-38 {
+  letter-spacing: 0;
+  line-height: 14.5px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.cards-10 {
+  align-items: flex-start;
+  display: flex;
+  gap: 10px;
+  position: relative;
+  width: 1004px;
+}
+
+.x-pending-8 {
+  align-items: flex-start;
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--black-haze);
+  cursor: pointer;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  gap: 10px;
+  padding: 10px;
+  position: relative;
+}
+
+.label-295 {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 14.5px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+}
+
+.label-296 {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 22.8px;
+  position: relative;
+  white-space: nowrap;
+}
+
+.label-297 {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  white-space: nowrap;
+}
+
+.label-298 {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: relative;
+  white-space: nowrap;
+}
+
+.span0-10 {
+  line-height: 22.8px;
+}
+
+.span1-10 {
+  line-height: 14.5px;
+}
+
+.dashboard-table-10 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  width: fit-content;
+}
+
+.table-109 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  width: 1004px;
+}
+
+.pagination-11 {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--white);
+  display: flex;
+  gap: 6px;
+  padding: 0px 10px;
+  position: relative;
+}
+
+.button-11 {
+  align-items: center;
+  background-color: var(--black);
+  border-radius: 22px;
+  display: flex;
+  gap: 10px;
+  height: 19px;
+  justify-content: center;
+  padding: 0px 10px;
+  position: relative;
+  width: fit-content;
+}
+
+.dropdown-12 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  gap: 10px;
+  position: relative;
+  width: fit-content;
+}
+
+.rectangle-30-12 {
+  align-self: stretch;
+  background-color: var(--white);
+  height: 19px;
+  min-width: 1px;
+  position: relative;
+}
+
+.icon-62 {
+  height: 10px;
+  margin-right: -117.00px;
+  margin-top: -378.00px;
+  min-width: 10px;
+  position: relative;
+}
+
+.tooltip-2 {
+  align-items: flex-start;
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--black);
+  display: flex;
+  height: 66px;
+  left: 276px;
+  min-width: 216px;
+  position: absolute;
+  top: 509px;
+}
+
+.overlap-group2-4 {
+  height: 72px;
+  margin-top: -6.0px;
+  position: relative;
+  width: 216px;
+}
+
+.arrow-14 {
+  height: 8px;
+  left: 84px;
+  position: absolute;
+  top: 0;
+  width: 48px;
+}
+
+.stroke-2 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  left: 0;
+  padding: 10px;
+  position: absolute;
+  top: 6px;
+  width: fit-content;
+}
+
+.override-this-2 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  justify-content: center;
+  padding: 10px;
+  position: relative;
+  width: 196px;
+}
+

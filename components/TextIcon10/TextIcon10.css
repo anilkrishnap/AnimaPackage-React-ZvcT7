@@ -1,0 +1,17 @@
+.text-icon-110 {
+  align-items: center;
+  display: flex;
+  flex: 1;
+  gap: 5px;
+  padding: 5px 0px;
+  position: relative;
+}
+
+.label-240 {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 14.5px;
+  position: relative;
+  white-space: nowrap;
+}
+

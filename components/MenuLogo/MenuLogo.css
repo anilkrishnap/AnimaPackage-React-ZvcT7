@@ -1,0 +1,24 @@
+.menu-logo {
+  align-items: flex-end;
+  display: flex;
+  gap: 20px;
+  position: relative;
+  width: fit-content;
+}
+
+.marcl-logo {
+  height: 32px;
+  min-width: 147.84px;
+  position: relative;
+}
+
+.menu-logo.menu-logo-6 .marcl-logo,
+.menu-logo.menu-logo-10 .marcl-logo,
+.menu-logo.menu-logo-11 .marcl-logo {
+  min-width: 147.84px;
+}
+
+.menu-logo.menu-logo-8 .marcl-logo {
+  min-width: 147.84px;
+}
+

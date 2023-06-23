@@ -1,0 +1,14 @@
+.cell-06-text,
+.cell-06-text-1,
+.cell-06-text-2,
+.cell-06-text-3,
+.cell-06-text-4,
+.cell-06-text-5 {
+  align-items: center;
+  display: flex;
+  gap: 5px;
+  padding: 0px 5px 0px 10px;
+  position: relative;
+  width: fit-content;
+}
+

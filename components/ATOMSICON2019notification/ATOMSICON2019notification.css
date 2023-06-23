@@ -1,0 +1,38 @@
+.atomsicon2019notification {
+  height: 24px;
+  min-width: 24px;
+  position: relative;
+}
+
+.group-24 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  justify-content: center;
+  left: 1px;
+  min-height: 23px;
+  position: relative;
+  width: 23px;
+}
+
+.shape {
+  height: 18px;
+  width: 23px;
+}
+
+.path {
+  height: 3px;
+  width: 6px;
+}
+
+.atomsicon2019notification.atomsicon2019notification-5 .path,
+.atomsicon2019notification.atomsicon2019notification-7 .path,
+.atomsicon2019notification.atomsicon2019notification-9 .path {
+  margin-right: 0;
+}
+
+.atomsicon2019notification.atomsicon2019notification-8 .path {
+  margin-left: 0;
+}
+

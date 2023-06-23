@@ -1,0 +1,570 @@
+.dashview-screen12 {
+  align-items: flex-start;
+  background-color: var(--white-lilac);
+  border: 1px none;
+  display: flex;
+  height: 774px;
+  overflow: hidden;
+  width: 1024px;
+}
+
+.overlap-group3-5 {
+  height: 1366px;
+  position: relative;
+  width: 1024px;
+}
+
+.dashview-6 {
+  align-items: center;
+  background-color: var(--white-lilac);
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  justify-content: center;
+  left: 0;
+  padding: 0px 0px 20px;
+  position: absolute;
+  top: 0;
+  width: fit-content;
+}
+
+.tabs-6 {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  padding: 10px 459px 10px 10px;
+  position: relative;
+  width: 1004px;
+}
+
+.tab-18 {
+  align-items: flex-start;
+  display: flex;
+  gap: 20px;
+  position: relative;
+  width: fit-content;
+}
+
+.tab-items-17 {
+  align-items: center;
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  width: fit-content;
+}
+
+.item-name-32,
+.item-name-33,
+.label-263,
+.placeholder-text-131 {
+  letter-spacing: 0;
+  line-height: 14.5px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.cards-5 {
+  align-items: flex-start;
+  display: flex;
+  gap: 10px;
+  position: relative;
+  width: 1004px;
+}
+
+.x-pending-4 {
+  align-items: flex-start;
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--black-haze);
+  cursor: pointer;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  gap: 10px;
+  padding: 10px;
+  position: relative;
+}
+
+.label-259 {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 14.5px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+}
+
+.label-260 {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 22.8px;
+  position: relative;
+  white-space: nowrap;
+}
+
+.label-261 {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  white-space: nowrap;
+}
+
+.label-262 {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: relative;
+  white-space: nowrap;
+}
+
+.span0-5 {
+  line-height: 22.8px;
+}
+
+.span1-5 {
+  line-height: 14.5px;
+}
+
+.dashboard-table-initial-pending,
+.show-page-11 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  width: fit-content;
+}
+
+.table-93 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  width: 1004px;
+}
+
+.table-92 {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  position: relative;
+}
+
+.inputs-40 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  gap: 10px;
+  padding: 7px 10px;
+  position: relative;
+}
+
+.checkbox-38 {
+  height: 20px;
+  min-width: 20px;
+  position: relative;
+}
+
+.row-data-40 {
+  align-items: center;
+  display: flex;
+  flex: 1;
+  gap: 10px;
+  position: relative;
+}
+
+.column-header-2-10 {
+  align-items: center;
+  display: flex;
+  flex: 1;
+  gap: 10px;
+  padding: 0px 84px 0px 0px;
+  position: relative;
+}
+
+.column-header-3-9 {
+  align-items: center;
+  display: flex;
+  flex: 1;
+  gap: 10px;
+  padding: 0px 10px;
+  position: relative;
+}
+
+.text-85 {
+  align-items: center;
+  display: flex;
+  gap: 10px;
+  padding: 5px 0px;
+  position: relative;
+  width: fit-content;
+}
+
+.table-row-11 {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: var(--black-haze);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  position: relative;
+}
+
+.cell-02-text-12 {
+  align-items: center;
+  display: flex;
+  flex: 1;
+  gap: 5px;
+  padding: 0px 10px 0px 0px;
+  position: relative;
+}
+
+.cell-03-text-11 {
+  align-items: center;
+  display: flex;
+  flex: 1;
+  gap: 5px;
+  padding: 0px 7px 0px 10px;
+  position: relative;
+}
+
+.table-94,
+.cell-04-text-30,
+.table-95 {
+  align-items: center;
+  display: flex;
+  flex: 1;
+  gap: 5px;
+  padding: 0px 10px;
+  position: relative;
+}
+
+.text-icon-124 {
+  align-items: center;
+  display: flex;
+  flex: 1;
+  gap: 5px;
+  padding: 5px 0px;
+  position: relative;
+}
+
+.label-264 {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 14.5px;
+  position: relative;
+  white-space: nowrap;
+}
+
+.label-265 {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 14.5px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+}
+
+.cell-07-text-18 {
+  align-items: center;
+  display: flex;
+  gap: 5px;
+  padding: 0px 20px 0px 10px;
+  position: relative;
+  width: fit-content;
+}
+
+.pagination-7 {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--white);
+  display: flex;
+  gap: 6px;
+  padding: 0px 10px;
+  position: relative;
+}
+
+.pagination-item {
+  align-items: center;
+  display: flex;
+  gap: 10px;
+  position: relative;
+  width: fit-content;
+}
+
+.input-fields-19 {
+  align-items: center;
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--alto);
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  height: 29px;
+  padding: 7px 0px 0px;
+  position: relative;
+  width: 51px;
+}
+
+.elements-47 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  position: relative;
+}
+
+.frame-31-11 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  justify-content: space-between;
+  padding: 0px 10px;
+  position: relative;
+}
+
+.placeholder-text-128 {
+  letter-spacing: 0;
+  line-height: 14.5px;
+  margin-top: -0.50px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.atomsicon2019close-33 {
+  height: 16px;
+  margin-left: -2334px;
+  margin-top: -411.50px;
+  min-width: 16px;
+  position: relative;
+}
+
+.divider-73 {
+  align-self: stretch;
+  background-color: var(--black);
+  height: 1px;
+  min-width: 51px;
+  position: relative;
+}
+
+.displaying-5-of-50-rows-11 {
+  letter-spacing: 0;
+  line-height: 14.5px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.page-11 {
+  align-items: center;
+  display: flex;
+  flex: 1;
+  justify-content: center;
+  position: relative;
+}
+
+.pages-11 {
+  align-items: center;
+  display: flex;
+  flex: 1;
+  gap: 5px;
+  justify-content: center;
+  position: relative;
+}
+
+.arrow-11 {
+  align-items: center;
+  background-color: var(--white);
+  display: flex;
+  gap: 22px;
+  justify-content: center;
+  padding: 10px;
+  position: relative;
+  width: fit-content;
+}
+
+.atomsicon2019close-34 {
+  height: 16px;
+  margin-left: -1395.50px;
+  margin-top: -399.00px;
+  min-width: 16px;
+  position: relative;
+}
+
+.divider-72 {
+  background-color: var(--alto);
+  height: 1px;
+  min-width: 18px;
+  position: relative;
+  transform: rotate(-90deg);
+}
+
+.atomsicon2019close-35 {
+  height: 16px;
+  margin-left: -1334.50px;
+  margin-top: -399.00px;
+  min-width: 16px;
+  position: relative;
+}
+
+.page-number-57 {
+  align-items: center;
+  background-color: var(--black);
+  border-radius: 40px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  height: 35px;
+  justify-content: center;
+  padding: 10px 14px;
+  position: relative;
+  width: 35px;
+}
+
+.placeholder-text-129 {
+  letter-spacing: 0;
+  line-height: 14.5px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.page-number-58 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  height: 35px;
+  justify-content: center;
+  padding: 10px 14px;
+  position: relative;
+  width: 35px;
+}
+
+.placeholder-text-130 {
+  letter-spacing: 0;
+  line-height: 14.5px;
+  margin-left: -3.50px;
+  margin-right: -3.50px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.atomsicon2019close-37 {
+  height: 16px;
+  margin-left: -1881.50px;
+  margin-top: -383.00px;
+  min-width: 16px;
+  position: relative;
+}
+
+.atomsicon2019close-38 {
+  height: 16px;
+  margin-left: -1820.50px;
+  margin-top: -383.00px;
+  min-width: 16px;
+  position: relative;
+}
+
+.input-fields-20 {
+  align-items: center;
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--alto);
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  height: 29px;
+  padding: 7px 0px 0px;
+  position: relative;
+  width: fit-content;
+}
+
+.page-number-59 {
+  align-items: flex-start;
+  display: flex;
+  gap: 10px;
+  padding: 0px 10px;
+  position: relative;
+  width: fit-content;
+}
+
+.divider-74 {
+  align-self: stretch;
+  background-color: var(--black);
+  height: 1px;
+  min-width: 28px;
+  position: relative;
+}
+
+.text-7-1 {
+  letter-spacing: 0;
+  line-height: 16.8px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.button-7 {
+  align-items: center;
+  background-color: var(--black);
+  border-radius: 22px;
+  display: flex;
+  gap: 10px;
+  height: 19px;
+  justify-content: center;
+  padding: 0px 10px;
+  position: relative;
+  width: fit-content;
+}
+
+.dropdown-8 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  gap: 10px;
+  position: relative;
+  width: fit-content;
+}
+
+.rectangle-30-8 {
+  align-self: stretch;
+  background-color: var(--white);
+  height: 21px;
+  margin-bottom: -1.00px;
+  margin-left: -1.00px;
+  margin-top: -1.00px;
+  min-width: 3px;
+  position: relative;
+}
+
+.icon-58 {
+  height: 10px;
+  margin-left: -2120.00px;
+  margin-top: -405.00px;
+  min-width: 10px;
+  position: relative;
+}
+
+.screenshot-2023-06-01-at-453-1 {
+  height: 520px;
+  margin-bottom: -55.00px;
+  margin-left: -1168.00px;
+  min-width: 779px;
+  object-fit: cover;
+  position: relative;
+}
+

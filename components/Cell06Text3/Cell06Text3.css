@@ -1,0 +1,12 @@
+.cell-06-text-18,
+.cell-06-text-19,
+.cell-06-text-20,
+.cell-06-text-21 {
+  align-items: center;
+  display: flex;
+  gap: 5px;
+  padding: 0px 25px 0px 10px;
+  position: relative;
+  width: fit-content;
+}
+

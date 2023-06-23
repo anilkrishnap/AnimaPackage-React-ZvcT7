@@ -1,0 +1,43 @@
+.text-icon-50-1 {
+  align-items: center;
+  display: flex;
+  gap: 5px;
+  padding: 5px 0px;
+  position: relative;
+  width: 54px;
+}
+
+.label-153 {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 14.5px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+}
+
+.text-icon-50-1.text-icon-50 .label-153,
+.text-icon-50-1.text-icon-52 .label-153,
+.text-icon-50-1.text-icon-53-4 .label-153,
+.text-icon-50-1.text-icon-54 .label-153,
+.text-icon-50-1.text-icon-55 .label-153,
+.text-icon-50-1.text-icon-56 .label-153,
+.text-icon-50-1.text-icon-57 .label-153,
+.text-icon-50-1.text-icon-58 .label-153 {
+  flex: unset;
+  margin-right: -17.00px;
+  width: fit-content;
+}
+
+.text-icon-50-1.text-icon-53-1 .label-153 {
+  flex: unset;
+  margin-right: -13.00px;
+  width: fit-content;
+}
+
+.text-icon-50-1.text-icon-53-2 .label-153,
+.text-icon-50-1.text-icon-53-3 .label-153,
+.text-icon-50-1.text-icon-53 .label-153 {
+  white-space: unset;
+}
+

@@ -1,0 +1,10 @@
+.cell-05-text-28,
+.cell-05-text-29 {
+  align-items: center;
+  display: flex;
+  gap: 5px;
+  padding: 0px 33px 0px 10px;
+  position: relative;
+  width: fit-content;
+}
+

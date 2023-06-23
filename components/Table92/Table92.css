@@ -1,0 +1,14 @@
+.table-81,
+.table-80,
+.table-82,
+.table-83,
+.table-84,
+.table-85 {
+  align-items: center;
+  display: flex;
+  flex: 1;
+  gap: 5px;
+  padding: 0px 10px;
+  position: relative;
+}
+

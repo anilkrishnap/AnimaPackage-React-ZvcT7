@@ -1,0 +1,56 @@
+.arrow {
+  align-items: center;
+  background-color: var(--white);
+  display: flex;
+  gap: 22px;
+  justify-content: center;
+  padding: 10px;
+  position: relative;
+  width: fit-content;
+}
+
+.atomsicon2019close-28 {
+  height: 16px;
+  min-width: 16px;
+  position: relative;
+}
+
+.divider-48 {
+  background-color: var(--alto);
+  height: 1px;
+  min-width: 18px;
+  position: relative;
+  transform: rotate(-90deg);
+}
+
+.arrow.arrow-4-1 .atomsicon2019close-28,
+.arrow.arrow-5-1 .atomsicon2019close-28,
+.arrow.arrow-6-1 .atomsicon2019close-28,
+.arrow.arrow-8-1 .atomsicon2019close-28,
+.arrow.arrow-9-1 .atomsicon2019close-28,
+.arrow.arrow-10-1 .atomsicon2019close-28,
+.arrow.arrow-4 .atomsicon2019close-28,
+.arrow.arrow-5 .atomsicon2019close-28,
+.arrow.arrow-6 .atomsicon2019close-28,
+.arrow.arrow-8 .atomsicon2019close-28,
+.arrow.arrow-9 .atomsicon2019close-28,
+.arrow.arrow-10 .atomsicon2019close-28 {
+  height: 2px;
+}
+
+.arrow.arrow-4-1 .atomsicon2019close-28.variant-1,
+.arrow.arrow-4 .atomsicon2019close-28.variant-1,
+.arrow.arrow-5-1 .atomsicon2019close-28.variant-1,
+.arrow.arrow-5 .atomsicon2019close-28.variant-1,
+.arrow.arrow-6-1 .atomsicon2019close-28.variant-1,
+.arrow.arrow-6 .atomsicon2019close-28.variant-1,
+.arrow.arrow-8-1 .atomsicon2019close-28.variant-1,
+.arrow.arrow-8 .atomsicon2019close-28.variant-1,
+.arrow.arrow-9-1 .atomsicon2019close-28.variant-1,
+.arrow.arrow-9 .atomsicon2019close-28.variant-1,
+.arrow.arrow-10-1 .atomsicon2019close-28.variant-1,
+.arrow.arrow-10 .atomsicon2019close-28.variant-1 {
+  min-width: 16px;
+  position: relative;
+}
+

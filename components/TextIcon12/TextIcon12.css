@@ -1,0 +1,33 @@
+.text-icon-126 {
+  align-items: center;
+  display: flex;
+  gap: 5px;
+  height: 40px;
+  padding: 5px 0px;
+  position: relative;
+  width: 54px;
+}
+
+.label-272 {
+  letter-spacing: 0;
+  line-height: 14.5px;
+  margin-right: -13.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.text-icon-126.text-icon-127,
+.text-icon-126.text-icon-131,
+.text-icon-126.text-icon-133,
+.text-icon-126.text-icon-135 {
+  margin-bottom: -7.50px;
+  margin-top: -7.50px;
+}
+
+.text-icon-126.text-icon-129 {
+  margin-bottom: -7.50px;
+  margin-right: -10.60px;
+  margin-top: -7.50px;
+}
+

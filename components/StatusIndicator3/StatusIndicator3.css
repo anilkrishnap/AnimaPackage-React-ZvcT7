@@ -1,0 +1,11 @@
+.status-indicator-22,
+.status-indicator-23 {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  gap: 10px;
+  height: 30px;
+  position: relative;
+  width: 30px;
+}
+
